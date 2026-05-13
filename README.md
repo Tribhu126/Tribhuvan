@@ -1,7 +1,7 @@
 # Hi, I'm Tribhuvan Sharma 👋
 
 AWS Certified Solutions Architect  
-Aspiring Solutions Consultant / Pre-Sales Engineer / TAM / CSM
+Aspiring Solutions Consultant / Pre-Sales Engineer / TAM / CSM / Account Manager / Account Executive
 
 I build scalable, secure, and production-ready cloud architectures on AWS.
 
