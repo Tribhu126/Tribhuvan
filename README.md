@@ -1,29 +1,82 @@
 # Hi, I'm Tribhuvan Sharma 👋
 
-AWS Certified Solutions Architect  
-Aspiring Solutions Consultant / Pre-Sales Engineer / TAM / CSM / Account Manager / Account Executive
+AWS Certified Solutions Architect with 8+ years of client-facing experience across Sales and Business Development.
 
-I build scalable, secure, and production-ready cloud architectures on AWS.
+Currently transitioning into Solutions Consulting and Cloud Pre-Sales through hands-on AWS architecture projects focused on scalable infrastructure, serverless systems, security, and cloud-native design.
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 AWS Serverless Portfolio
-- CloudFront + S3 + Lambda + API Gateway
-- Event-driven architecture
-- Visitor tracking + contact form
-
-👉 https://github.com/Tribhu126/aws-serverless-portfolio
+I enjoy bridging business requirements with technical solutions and building practical cloud projects that demonstrate real-world architectural thinking.
 
 ---
 
-### 🔹 Scalable Web App (3-Tier Architecture)
-- ALB + Auto Scaling + Private EC2
-- Stateless deployment via User Data
-- Secure access via AWS Systems Manager (no SSH)
+## Current Focus
 
-👉 https://github.com/Tribhu126/aws-webapp-pvt-ec2
+- AWS Cloud Architecture
+- Solutions Consulting & Pre-Sales
+- Serverless Applications
+- Scalable AWS Infrastructure
+- Cloud Security & Networking
+- Infrastructure Design & Automation
+
+---
+
+## Background
+
+My experience spans both business-facing and technical environments.
+
+Before transitioning into cloud technologies, I worked extensively in Sales, Business Development, and customer-facing SaaS roles where I developed skills in:
+- stakeholder management
+- solution-oriented communication
+- customer engagement
+- business problem solving
+
+I am now combining that business understanding with hands-on AWS architecture and cloud infrastructure projects.
+
+---
+
+## Featured AWS Projects
+
+### AWS Serverless Portfolio Website
+Fully serverless AWS portfolio application using:
+- S3
+- CloudFront
+- API Gateway
+- Lambda
+- DynamoDB
+- SNS
+
+Features:
+- backend-controlled visitor tracking
+- API protection
+- event-driven notifications
+- layered visitor validation
+
+🔗 Live Demo:
+https://tribhuvansharma.com
+
+🔗 Repository:
+https://github.com/Tribhu126/aws-serverless-portfolio
+
+---
+
+### AWS Scalable Web Application
+Scalable and secure AWS web architecture using:
+- Application Load Balancer
+- Auto Scaling Group
+- Private EC2
+- NAT Gateway
+- Systems Manager
+
+Features:
+- immutable deployment model
+- stateless bootstrapping
+- private infrastructure design
+- scalable architecture patterns
+
+🔗 Live Demo:
+https://app.tribhuvansharma.com
+
+🔗 Repository:
+https://github.com/Tribhu126/aws-webapp-pvt-ec2
 
 ---
 
