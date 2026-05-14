@@ -89,8 +89,8 @@ https://github.com/Tribhu126/aws-webapp-pvt-ec2
 
 ---
 
-## Contact
+## Connect With Me
 
-- LinkedIn: (www.linkedin.com/in/tribhuvan-sharma)
-- Email: (tribhuvansharma88@gmail.com)
+- Portfolio: https://tribhuvansharma.com
+- LinkedIn: https://www.linkedin.com/in/tribhuvan-sharma/
 
