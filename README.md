@@ -8,17 +8,6 @@ I enjoy bridging business requirements with technical solutions and building pra
 
 ---
 
-## Current Focus
-
-- AWS Cloud Architecture
-- Solutions Consulting & Pre-Sales
-- Serverless Applications
-- Scalable AWS Infrastructure
-- Cloud Security & Networking
-- Infrastructure Design & Automation
-
----
-
 ## Background
 
 My experience spans both business-facing and technical environments.
@@ -30,6 +19,17 @@ Before transitioning into cloud technologies, I worked extensively in Sales, Bus
 - business problem solving
 
 I am now combining that business understanding with hands-on AWS architecture and cloud infrastructure projects.
+
+---
+
+## Current Focus
+
+- AWS Cloud Architecture
+- Solutions Consulting & Pre-Sales
+- Serverless Applications
+- Scalable AWS Infrastructure
+- Cloud Security & Networking
+- Infrastructure Design & Automation
 
 ---
 
