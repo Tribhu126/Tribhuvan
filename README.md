@@ -80,7 +80,7 @@ https://github.com/Tribhu126/aws-webapp-pvt-ec2
 
 ---
 
-## 🧠 Skills
+## Skills
 
 - AWS: EC2, S3, ALB, ASG, CloudFront, Lambda, DynamoDB
 - Networking: VPC, Security Groups, Private Subnets
@@ -89,7 +89,7 @@ https://github.com/Tribhu126/aws-webapp-pvt-ec2
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: (www.linkedin.com/in/tribhuvan-sharma)
 - Email: (tribhuvansharma88@gmail.com)
